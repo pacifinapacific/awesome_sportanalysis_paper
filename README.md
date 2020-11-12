@@ -1,4 +1,6 @@
 # awesome_sportanalysis_paper
-#person reidentification
+
+# article
+https://github.com/stephanj/basketballVideoAnalysis/wiki
 
 
