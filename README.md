@@ -19,4 +19,6 @@ Associative embedding for team discrimination
 Real-time CNN-based Segmentation Architecture for Ball Detection in a Single View Setup
 (https://arxiv.org/abs/2007.11876)
 
+# tactical analysis
+pass propability
 https://arxiv.org/pdf/2010.10202.pdf
