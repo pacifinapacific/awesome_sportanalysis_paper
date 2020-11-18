@@ -20,5 +20,5 @@ Real-time CNN-based Segmentation Architecture for Ball Detection in a Single Vie
 (https://arxiv.org/abs/2007.11876)
 
 # tactical analysis
-pass propability
+## pass propability
 https://arxiv.org/pdf/2010.10202.pdf
