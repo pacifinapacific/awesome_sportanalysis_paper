@@ -4,12 +4,14 @@
 https://github.com/stephanj/basketballVideoAnalysis/wiki
 
 
-# player indentify
+# player detection,tracking
 Learning to Track and Identify Players from Broadcast Sports Videos(https://www.cs.ubc.ca/~murphyk/Papers/weilwun-pami12.pdf)
 
 Online Multi-player Tracking in Monocular Soccer Videos
 (https://www.sciencedirect.com/science/article/pii/S2212671614000730)
 
+Self-Supervised Small Soccer Player Detection and Tracking
+https://dl.acm.org/doi/10.1145/3422844.3423054
 
 # team discrimination
 Associative embedding for team discrimination
@@ -22,3 +24,8 @@ Real-time CNN-based Segmentation Architecture for Ball Detection in a Single Vie
 # tactical analysis
 ## pass probability
 https://arxiv.org/pdf/2010.10202.pdf
+
+# Dataset 
+https://github.com/SilvioGiancola/SoccerNet-code
+
+https://pspagnolo.jimdofree.com/download/
