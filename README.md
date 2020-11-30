@@ -3,7 +3,8 @@
 # article
 https://github.com/stephanj/basketballVideoAnalysis/wiki
 
-
+# Survay
+What AI can do for Football, and What Football can do for AI (https://arxiv.org/abs/2011.09192)
 # player detection,tracking
 Learning to Track and Identify Players from Broadcast Sports Videos(https://www.cs.ubc.ca/~murphyk/Papers/weilwun-pami12.pdf)
 
